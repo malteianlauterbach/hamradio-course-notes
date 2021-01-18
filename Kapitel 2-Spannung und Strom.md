@@ -22,4 +22,12 @@ Spannung kann mit einem Spannungsmesser zwischen zwei Punkten einer Schaltung ge
 Alle Spannungen über 50V können tödlich sein.
 
 
-*Die 
+*Die Reihenschaltung von Spannungsquellen*
+Mehrere Spannungsquellen lassen sich zusammenschalten. Schaltet man zum Beispiel zwei 1.5 Volt Batterien in Reihe, liegt eine Gesamtspannung von _U_ = 3Volt an.
+
+technische Stromrichtung: Annahme des Elektronenfluss von Pluspol zum Minuspol
+
+
+_Elektrischer Strom ist die gerichtete Bewegung von ladungsträgern_
+
+Strom kann nur mit geschlossenem Stromkreis fliessen.
