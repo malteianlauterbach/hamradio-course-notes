@@ -42,4 +42,29 @@ Ladungsmenge Q ist Stromstärke I mal Zeit t, als Formel geschrieben
 _Q = I * t_ in Coloumb 
 _1C=1A*s_
 
+
+*Wechselstrom*
+
+Die ständige Änderung der Bewegungsrichtung eines Ladungsträgers nennt man _Wechselstrom_.
+
+Der Wechselstrom aus der Steckdose entspricht einer Sinuskurve. Diese regelmäßige Wiederholung wird periodische Wechselspannung genannt.
+
+*Frequenz*
+
+ Anzahl der   Perioden je Sekunde in f miz der Einheit Hertz in Hz.
+ 
+Periodendauer
+ 
+Die Zeitdauer T für eine vollstädnige Schwingung nennt man Periodendauer. Im technischen Wechselstrom beträgt sie 1/50tel Sekunde, also 20 Millisekunden.
+
+T: 1/f
+f: 1/T
+
+Der Effektivwert der Wechselspannung
+
+Liegt bei 70% des Maximalwerts der Gleichspannung
+
+Nennt man U_eff
+
+
  
