@@ -6,7 +6,7 @@ Echo
 Foxtrot
 Golf
 Hotel
-india
+India
 Juliett
 Kilo 
 Lima
