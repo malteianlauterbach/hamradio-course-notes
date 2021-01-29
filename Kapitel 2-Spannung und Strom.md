@@ -7,8 +7,8 @@ So bald dieses Gleichgewicht gestört ist streben die Ladungen danach durch die 
 
 Das Trennen der Ladung geschieht durch Energiezufuhr.
 
-Die Elektrode (-Anschlussklemme)  einer Spannunsgquelle mit Elektronenüberschuss ist der Minuspol. Am Pluspol herrscht Elektronenmangel.
-Formelzeichen ist _U_. Einheit in _Volt_.
+Die Elektrode (-Anschlussklemme) einer Spannunsgquelle mit Elektronenüberschuss ist der Minuspol. Am Pluspol herrscht Elektronenmangel
+Formelzeichen ist _U_. Einheit in _Volt_
 Netzspannung _U_ = 230 V.
 
 Ein guter Empfänger verarbeitet ein guter Empfänger Signale mit einer Spannung von weniger als einem Mikrovolt, geliefert von der Antenne zu brauchbaren Lautstärken.
@@ -40,7 +40,7 @@ Zum Messen der Stromstärke: Reihenschaltung Multimeter
 Ladungsmenge Q ist Stromstärke I mal Zeit t, als Formel geschrieben
 
 _Q = I * t_ in Coloumb 
-_1C=1A*s_
+_1C=1A *s_
 
 
 *Wechselstrom*
@@ -62,9 +62,10 @@ f: 1/T
 
 Der Effektivwert der Wechselspannung
 
-Liegt bei 70% des Maximalwerts der Gleichspannung
+Liegt bei 70 % des Maximalwerts der Gleichspannung
 
 Nennt man U_eff
 
 
- 
+ U_eff =m U_max/0,707
+Spitze-Spitze wert: U_eff*1,41
